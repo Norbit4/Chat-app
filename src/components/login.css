@@ -1,0 +1,16 @@
+.loginButton{
+    background-color: rgb(19, 85, 160);
+    color: rgb(243, 234, 234);  
+    height: 40px;
+    width: 50px
+}
+
+.input{
+    height: 40px;
+    width: 250px;
+    border: none;  
+  }
+  
+.loginForm{
+    background-color: silver;
+}
